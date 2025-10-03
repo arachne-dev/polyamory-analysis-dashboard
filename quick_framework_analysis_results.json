@@ -1,0 +1,68 @@
+{
+  "total_comments": 459,
+  "classification_results": {
+    "targets": {
+      "SI": 84,
+      "ID": 59,
+      "SB": 27,
+      "MC": 15,
+      "EX": 6
+    },
+    "justifications": {
+      "BIO": 38,
+      "SOC": 9,
+      "PCN": 17,
+      "MAU": 30
+    },
+    "intensities": {
+      "EXH": 194,
+      "SDG": 203,
+      "MRJ": 57,
+      "MDI": 5
+    },
+    "norms": {
+      "REM": 62,
+      "NAT": 38,
+      "SOR": 9,
+      "TFM": 9
+    }
+  },
+  "stance_analysis": {
+    "counts": {
+      "anti_polyamory": 363,
+      "neutral": 46,
+      "pro_polyamory": 35,
+      "questioning": 14,
+      "anti_hedonism": 1
+    },
+    "percentages": {
+      "anti_polyamory": 79.1,
+      "neutral": 10.0,
+      "pro_polyamory": 7.6,
+      "questioning": 3.1,
+      "anti_hedonism": 0.2
+    }
+  },
+  "emotion_analysis": {
+    "avg_intensity": 3.3812636165577343,
+    "avg_sophistication": 1.8823529411764706,
+    "valence_distribution": {
+      "negative": 378,
+      "neutral": 42,
+      "positive": 28,
+      "mixed": 11
+    }
+  },
+  "likes_analysis": {
+    "total_likes": 6817,
+    "avg_likes": 14.851851851851851,
+    "median_likes": 2.0,
+    "likes_by_stance": {
+      "anti_hedonism": 9.0,
+      "anti_polyamory": 16.80716253443526,
+      "neutral": 5.0,
+      "pro_polyamory": 3.5428571428571427,
+      "questioning": 25.214285714285715
+    }
+  }
+}
