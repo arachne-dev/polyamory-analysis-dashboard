@@ -35,8 +35,8 @@ venv.bak/
 # pyenv
 .python-version
 
-# Streamlit
-.streamlit/
+# Streamlit (keep config for deployment)
+.streamlit/secrets.toml
 
 # macOS
 .DS_Store
